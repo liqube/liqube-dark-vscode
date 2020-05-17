@@ -1,0 +1,44 @@
+{
+	"name": "theme-liqube-dark",
+	"displayName": "Liqube Dark Code",
+	"description": "Fresh dark theme for night coding",
+	"version": "1.0.5",
+	"publisher": "liqube",
+	"author": {
+		"name": "liqube"
+	},
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.12.0"
+	},
+	"galleryBanner": {
+		"color": "#151920",
+		"theme": "dark"
+	},
+	"homepage": "https://marketplace.visualstudio.com/items?itemName=liqube.theme-liqube-dark",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/liqube/liqube-dark-vscode.git"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"theme",
+		"dark",
+		"clean",
+		"focused",
+		"vscode"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Liqube Dark Code",
+				"uiTheme": "vs-dark",
+				"path": "./themes/liqube-dark-code.json"
+			}
+		]
+	}
+}
