@@ -17,7 +17,7 @@ This theme was made with *C*, *C++*, *PHP*, *HTML*, *CSS*, and *LUA* in mind, bu
 
 ![](https://liqube.com/ext/vs/liqube-dark-code/screenshot2.png)
 
-# Some Specifics
+# Design Specifics
 
 The idea was to put focus on elements that are relevant, that need to be identifyable quickly without
 having the brain do the exhausting work of visually separating things.
