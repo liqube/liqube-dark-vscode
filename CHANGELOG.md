@@ -2,6 +2,10 @@
 
 All notable changes to the "theme-liqube-dark" extension will be documented in this file.
 
+## [1.0.8] - 2024-04-25
+
++ Major user interface overhaul and fine-tuning
+
 ## [1.0.7] - 2024-04-25
 
 + Support for bracket pair colorization
