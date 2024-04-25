@@ -7,17 +7,7 @@ While specifically created for **evening/night coding** the color scheme also wo
 
 This theme was made with *C*, *C++*, *PHP*, *HTML*, *CSS*, and *LUA* in mind, but should work fine for most languages.
 
-# Screenshots
-
-## PHP Code Example
-
-![](https://liqube.com/ext/vs/liqube-dark-code/screenshot1.png)
-
-## HTML Code Example
-
-![](https://liqube.com/ext/vs/liqube-dark-code/screenshot2.png)
-
-# Design Specifics
+# Design Goals
 
 The idea was to put focus on elements that are relevant, that need to be identifyable quickly without
 having the brain do the exhausting work of visually separating things.
@@ -38,6 +28,20 @@ having the brain do the exhausting work of visually separating things.
 
 And several other things I simply forgot to mention here.
 
+# Screenshots
+
+## PHP Code Example
+
+![](https://liqube.com/ext/vs/liqube-dark-code/screenshot1.png)
+
+## HTML Code Example
+
+![](https://liqube.com/ext/vs/liqube-dark-code/screenshot2.png)
+
+## Gentle bracket pair colorization and guides
+
+![](https://liqube.com/ext/vs/liqube-dark-code/screenshot3.png)
+
 # Installing
 
 This extension is available for free at the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items/liqube.theme-liqube-dark).
@@ -48,7 +52,7 @@ After installing the package in *Visual Studio Code* press F1, type `color theme
 
 # Credits
 
-The theme was brought to you by the people behind *Resonic Player* and *Pro* at [www.resonic.at](https://www.resonic.at).
+The theme was brought to you by the people behind *Resonic Player* and *Pro*.
 
 # Contribute
 
